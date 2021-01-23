@@ -32,7 +32,7 @@
 <style>
     main {
         padding-top: 50px;
-        background: #7fc5bb;
+        /*background: #7fc5bb;*/
         height: 100%;
         overflow: auto;
     }

@@ -10,7 +10,7 @@
 </script>
 
 <div style="padding-top: 20px">
-  <h1>Feed</h1>
+  <h1>Covid 19 testu vēsture</h1>
 </div>
 {#await getData()}
     loading....
@@ -19,7 +19,7 @@
         <ul>
         <li>
       <a href={$url('./:id', {id: record._id})}>
-          {record.Datums}<br>
+          {record.Datums.split("T00")[0]}<br>
       </a>
         </li>
         </ul>

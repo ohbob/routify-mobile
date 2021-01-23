@@ -4,8 +4,8 @@
   import { url, isActive } from "@roxi/routify";
 
   const _urls = [
-    ["./home", "Home", "#7fc5bb"],
-    ["./feed", "Feed", "#0bf5cc"],
+    ["./home", "Home", "darkred"],
+    ["./feed", "Feed", "darkred"],
     // ["./updates", "Updates", "#88f0d0"],
     // ["./settings", "Settings", "#a1fac3"],
   ];

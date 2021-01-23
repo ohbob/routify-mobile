@@ -1,6 +1,6 @@
 <style>
   main {
-    background: #0bf5cc;
+    background: white;
     height: 100%;
     overflow-y: auto;
   }
