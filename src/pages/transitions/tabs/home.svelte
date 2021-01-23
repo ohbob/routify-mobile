@@ -45,8 +45,8 @@
         <article>
             <img src="/lv-karogs.png" alt="Latvijas karogs"/>
             <h1>SARS-CoV-2 izplatība Latvijā</h1>
-            <p>Populācija uz 01.01.2020 </p>
-            <p>Inficētie - {sick} / % {population} / % {calculate_percentage(sick, population)}</p>
+            <p>Populācija uz 01.01.2020 / {population}</p>
+            <p>Inficētie - {sick} / % {calculate_percentage(sick, population)}</p>
             <p>Veiktie testi - {tested} / % {calculate_percentage(tested, population)}</p>
             <p>Nepārbaudīti - {population - tested} / % {calculate_percentage(population - tested, population)}</p>
             <p>Miruši - {dead} / % {calculate_percentage(dead, population)}</p>

@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fef2743d-732d-4d05-9133-b29a23933f47" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/pages/store.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/transitions/tabs/feed/[id]/index.svelte" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/transitions/tabs/feed/[id]/index.svelte" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/transitions/tabs/feed/index.svelte" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/transitions/tabs/feed/index.svelte" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/transitions/tabs/_reset.svelte" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/transitions/tabs/_reset.svelte" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/pages/transitions/tabs/home.svelte" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/transitions/tabs/home.svelte" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -50,7 +48,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1611433155572</updated>
-      <workItem from="1611433156986" duration="9222000" />
+      <workItem from="1611433156986" duration="10743000" />
     </task>
     <servers />
   </component>
